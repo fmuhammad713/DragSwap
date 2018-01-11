@@ -1,0 +1,7 @@
+#Mon Oct 23 16:29:25 ICT 2017
+base.0=C\:\\Users\\MUL17\\Downloads\\Documents\\MaterialMe-Starter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_705a871bd6dac3da1884ca7f9fa103b69b0902a9
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\MUL17\\Downloads\\Documents\\MaterialMe-Starter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_89ef77e870b235cee94a0010e10569db0b5d5d21\\classes.dex
+base.1=C\:\\Users\\MUL17\\Downloads\\Documents\\MaterialMe-Starter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_89ef77e870b235cee94a0010e10569db0b5d5d21
+file.0=C\:\\Users\\MUL17\\Downloads\\Documents\\MaterialMe-Starter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_705a871bd6dac3da1884ca7f9fa103b69b0902a9\\classes.dex

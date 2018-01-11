@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\MUL17\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.5.2\ecf534dba3a8446ce84cbb797d314763be212a68\glide-3.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="C:\Users\MUL17\Downloads\Documents\MaterialMe-Starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.5.2_f5558d6964bb346712e2ca2a0f88872681d483f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MUL17\Downloads\Documents\MaterialMe-Starter\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\MUL17\Downloads\Documents\MaterialMe-Starter\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_89ef77e870b235cee94a0010e10569db0b5d5d21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MUL17\Downloads\Documents\MaterialMe-Starter\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e6ecdbd038ce2b38c510a8ce5401360eccd2a1b">
+        <dex dex="C:\Users\MUL17\Downloads\Documents\MaterialMe-Starter\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_705a871bd6dac3da1884ca7f9fa103b69b0902a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MUL17\.android\build-cache\69d00f7f6a4c341dcaad6235b83afcf086021457\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="C:\Users\MUL17\Downloads\Documents\MaterialMe-Starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_91a044b03f222afd4728ebfa65f579b25262f39d\classes.dex" />
+    </item>
+
+</items>
